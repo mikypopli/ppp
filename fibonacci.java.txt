@@ -1,0 +1,15 @@
+import java.until.scanner;
+class fibonacci 
+{
+Public Static Void Main (string{}args){
+int num,a=0,b=1,c;
+system.out.println("Enter term");
+Scanner r=new scanner (system.in);
+a=r.next Int ();
+for(int i=1;i<=term;i++){
+system.out.println(a+" ");
+c=a+b;
+a=b;
+b=c;
+}
+}
